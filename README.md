@@ -6,14 +6,12 @@
 🔹 Strong in **Python, Java, React, Flask, Spring Boot** with hands-on projects. 
 
 
-
 # Coding Profile
+<!-- Coding Profiles -->
 
-<!-- LeetCode Profile -->
-[![LeetCode](https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png)](https://leetcode.com/u/BATTA9966/)
 
-<!-- Codolio Profile -->
-[![Codolio](https://codolio.com/favicon.ico)](https://codolio.com/profile/Batta)
+[![LeetCode](https://img.shields.io/badge/LeetCode-333333?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/BATTA9966/)
+[![Codolio](https://img.shields.io/badge/Codolio-0078D7?style=for-the-badge&logo=codio&logoColor=white)](https://codolio.com/profile/Batta)
 
 ## 📫 Connect with Me or you can Contact Me 
 
