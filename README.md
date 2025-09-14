@@ -36,12 +36,11 @@
 <!-- Web Stuff -->
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/> </a>
 <a href="https://www.w3.org/Style/CSS/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/> </a>
-<a href="https://restfulapi.net/" target="_blank"> <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-api-web-flaticons-lineal-color-flat-icons.png" alt="REST API" width="40" height="40"/> </a>
 
 <!-- Frameworks -->
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a>
 <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/> </a>
-<a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.svgrepo.com/show/353403/flask-icon.svg" alt="Flask" width="40" height="40"/> </a>
+<img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="Flask" width="40" height="40"/>
 
 <!-- Databases -->
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
