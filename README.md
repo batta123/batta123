@@ -55,8 +55,9 @@
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/> </a>
 <a href="https://jupyter.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Notebook" width="40" height="40"/> </a>
 <a href="https://www.jetbrains.com/pycharm/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/PyCharm_Logo.png" alt="PyCharm" width="40" height="40"/>
+  <img src="https://cdn.iconscout.com/icon/free/png-256/pycharm-282752.png" alt="PyCharm" width="40" height="40"/>
 </a>
+
 
 
 
