@@ -91,4 +91,11 @@ Feel free to connect with me or explore my projects. Let’s build something ama
 
 </p>
 
+## 🐍 My Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/batta123/batta123/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+
 
