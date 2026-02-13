@@ -68,6 +68,9 @@ Feel free to connect with me or explore my projects. Let’s build something ama
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a>
 <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/> </a>
 <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="Flask" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/django-community.svg" alt="Django" width="120"/>
+
+
 
 <!-- Databases -->
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/> </a>
@@ -82,20 +85,9 @@ Feel free to connect with me or explore my projects. Let’s build something ama
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/> </a>
 <a href="https://jupyter.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Notebook" width="40" height="40"/> </a>
 
-
-
-
-
-
-
-
 </p>
 
-## 🐍 My Contribution Snake
 
-<p align="center">
-  <img src="https://github.com/batta123/batta123/blob/output/github-contribution-grid-snake.svg" />
-</p>
 
 
 
