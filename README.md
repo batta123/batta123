@@ -67,7 +67,7 @@ Feel free to connect with me or explore my projects. Let’s build something ama
 <!-- Frameworks -->
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a>
 <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/> </a>
-<img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="Flask" width="40" height="40"/>
+
 <img src="https://cdn.worldvectorlogo.com/logos/django-community.svg" alt="Django" width="120"/>
 
 
