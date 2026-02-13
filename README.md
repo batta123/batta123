@@ -5,11 +5,11 @@
 
 
 🔹 Passionate about **Data Structures & Algorithms**, full-stack development, and building impactful applications.    
-🔹 Strong in **Python, Java, React, Flask, Spring Boot** with hands-on projects. 
+🔹 Strong in **Python, Java, React, Django, Spring Boot** with hands-on projects. 
 
 🖥 What I Do
 
-Build dynamic and responsive web applications using React, Next.js, TypeScript, Redux Toolkit, and JavaScript.
+Build dynamic and responsive web applications using React, TypeScript, Redux Toolkit, and JavaScript.
 
 Develop backend solutions with Python, Java integrating APIs and databases to create seamless user experiences.
 
