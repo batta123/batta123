@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dileep Batta  
 
-💻 **Aspiring Software Devolopment Engineer | Problem Solver | Python Trainer | Open to Internships & Roles**  
+💻 **Aspiring Software Devolopment Engineer | Problem Solver | Teaching Assistant @ ICT Academy | Open to Internships & Roles**  
 
 
 
