@@ -27,11 +27,6 @@ Exploring AI and machine learning concepts.
 
 Participating in hackathons and coding challenges.
 
-Contributing to open-source communities.
-
-Reading tech blogs, articles, and staying up to date with industry trends.
-
-In addition to programming, I’m always curious to explore emerging technologies, enhance my problem-solving skills, and    collaborate with others to build impactful solutions.
 
 Feel free to connect with me or explore my projects. Let’s build something amazing together!
 
