@@ -64,15 +64,12 @@ Feel free to connect with me or explore my projects. Let’s build something ama
 <a href="https://www.w3schools.com/sql/"><img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="45"/></a>
 
 <!-- AI Tools & Frameworks -->
-<h3 align="left"> AI Tools & Frameworks</h3>
+
 <p align="left">
-  <a href="https://openai.com/"><img src="https://cdn.simpleicons.org/openai/FFFFFF" width="45" alt="OpenAI"/></a>
   <a href="https://www.anthropic.com/"><img src="https://cdn.simpleicons.org/anthropic/D97757" width="45" alt="Anthropic Claude"/></a>
   <a href="https://gemini.google.com/"><img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="45" alt="Google Gemini"/></a>
   <a href="https://www.langchain.com/"><img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="45" alt="LangChain"/></a>
   <a href="https://www.langchain.com/langgraph"><img src="https://cdn.simpleicons.org/langgraph/1C3C3C" width="45" alt="LangGraph"/></a>
-  <a href="https://huggingface.co/"><img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="45" alt="Hugging Face"/></a>
-  <a href="https://ollama.com/"><img src="https://cdn.simpleicons.org/ollama/FFFFFF" width="45" alt="Ollama"/></a>
   <a href="https://fastapi.tiangolo.com/"><img src="https://cdn.simpleicons.org/fastapi/009688" width="45" alt="FastAPI"/></a>
 </p>
 <!-- Web -->
